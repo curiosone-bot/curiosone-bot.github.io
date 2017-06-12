@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+![Curiosone](https://github.com/curiosone-ai/curiosone/raw/master/wallpaper.jpg?raw=true "Curiosone")
+# Curiosone
+Curiosone is conversational chatbot built in Java which makes it possible to generate responses based on collections of known conversations.
 
-You can use the [editor on GitHub](https://github.com/curiosone-ai/curiosone-ai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+An example of typical input would be something like this:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+> **bot:**  Ciao, sono il Curiosone! Mi interesso a qualsiasi argomento. Di cosa vuoi parlare?  
+> **user:** BabelNet  
+> **bot:**  So che BabelNet è una rete semantica, ma vorrei chiederti: BabelNet si usa per tradurre?  
+> **user:** Sì | Non solo | Non saprei...  
+> **bot:**  Ok, parliamo di computer. Puoi dirmi dove si trova normalmente un computer?  
+> **user:** In casa o in un laboratorio  
+> **bot:**  Per che cosa lo usi?  
+> **user:** Per programmare e giocare ai videogiochi  
+> **bot:**  Interessante... giochiamo? Ho un gioco da proporti!  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# How it works
+To be defined
 
-```markdown
-Syntax highlighted code block
+# Submodules
+The project is dived into smaller submodules:
+* [curiosone-grammar-processing](https://github.com/curiosone-ai/curiosone-grammar-processing)
+* [curiosone-workflow](https://github.com/curiosone-ai/curiosone-workflow)
+* [curiosone-semantic-network](https://github.com/curiosone-ai/curiosone-semantic-network)
+* [curiosone-android-games](https://github.com/curiosone-ai/curiosone-android-games)
+* [curiosone-language-refinement](https://github.com/curiosone-ai/curiosone-language-refinement)
+* [curiosone-sentiment-domain-analysis](https://github.com/curiosone-ai/curiosone-sentiment-domain-analysis)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/curiosone-ai/curiosone-ai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# License
+Curiosone is licensed under the [MIT License](https://github.com/curiosone-ai/curiosone/blob/master/LICENSE.txt)
