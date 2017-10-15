@@ -10,7 +10,7 @@
   <a href="https://github.com/curiosone-bot/curiosone-web"><img src="https://img.shields.io/badge/curiosone-web-00d2ff.svg" alt="curiosone web" /></a>
   <a href="https://travis-ci.org/curiosone-bot/curiosone-web"> <img src="https://travis-ci.org/curiosone-bot/curiosone-web.svg?branch=master" alt="build status"></a>
   <a href="https://codecov.io/gh/curiosone-bot/curiosone-web"><img src="https://img.shields.io/codecov/c/github/curiosone-bot/curiosone-web/master.svg" alt="code coverage" /></a>
-  <a href="https://google.github.io/styleguide/javaguide.html"><img src="https://img.shields.io/badge/code_style-Standard-5ed9c7.svg" alt="code style" /></a>
+  <a href="https://github.com/standard/standard"><img src="https://img.shields.io/badge/code_style-Standard-5ed9c7.svg" alt="code style" /></a>
   <br>
   <a href="https://github.com/curiosone-bot/curiosone-app"><img src="https://img.shields.io/badge/curiosone-app-00d2ff.svg" alt="curiosone app" /></a>
   <a href="https://travis-ci.org/curiosone-bot/curiosone-app"> <img src="https://travis-ci.org/curiosone-bot/curiosone-app.svg?branch=master" alt="build status"></a>
