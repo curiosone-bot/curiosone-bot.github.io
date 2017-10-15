@@ -26,7 +26,7 @@
 
 ## Background
 Curiosone is a curious bot that is able to learn things chatting with people.  
-You can try it [here](curiosone-bot.github.io/curiosone-web).
+You can try it [here](https://curiosone-bot.github.io/curiosone-web).
 
 ## Development
 The bot codebase is splitted in different repositories:
