@@ -18,3 +18,10 @@
 <div align="center">
   💬 Conversational bot written in Java!
 </div>
+
+## Background
+Curiosone is a curious bot that is able to learn things chatting with people.
+You can try it [here](curiosone-bot.github.io/curiosone-web).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
