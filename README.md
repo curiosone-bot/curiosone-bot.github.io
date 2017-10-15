@@ -33,6 +33,7 @@ The bot codebase is splitted in different repositories:
 - Curiosone Brain - [curiosone-core](https://github.com/curiosone-bot/curiosone-core)
 - Curiosone Web App - [curiosone-web](https://github.com/curiosone-bot/curiosone-web)
 - Curiosone Android App - [curiosone-app](https://github.com/curiosone-bot/curiosone-app)
+
 Feel free to contribute!
 
 ## License
