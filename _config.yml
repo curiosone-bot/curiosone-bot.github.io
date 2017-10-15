@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
-title: Curiosone
-description: Conversational chatbot built in Java
+exclude:
+- LICENSE
+- README.md
+- .gitattributes
+- _config.yml
