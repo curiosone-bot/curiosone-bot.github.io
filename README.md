@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/curiosone-bot/curiosone-bot.github.io"><img src="./media/curiosone-bot-logo.png" alt="curiosone-bot" /></a>
+  <a href="https://curiosone-bot.github.io/"><img src="./media/curiosone-bot-logo.png" alt="curiosone-bot" /></a>
 </h1>
 <div align="center">
   <a href="https://github.com/curiosone-bot/curiosone-core"><img src="https://img.shields.io/badge/curiosone-core-00d2ff.svg" alt="curiosone core" /></a>
