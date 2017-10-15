@@ -1,17 +1,16 @@
 ---
 layout: default
 ---
+<div class="embedded-bot">
+   <iframe src="https://curiosone-bot.github.io/curiosone-web/" sandbox="allow-same-origin allow-scripts allow-pointer-lock"></iframe>
+</div>
 
-# [](#header-1)Header 1
+# [](#header-2)Contributors
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+{% for member in site.data.members %}
+  <div class="contributor">
+    <a href="https://github.com/{{ member.github }}" title="{{ member.name }}">
+      <div class="profile-image" style="background-image: url(https://github.com/{{ member.github }}.png)"></div>
+    </a>
+  </div>
+{% endfor %}

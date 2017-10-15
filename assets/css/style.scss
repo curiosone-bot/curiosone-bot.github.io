@@ -2,3 +2,44 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+
+.page-header{
+  padding-bottom: 160px;
+
+  .logo{
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.main-content{
+  .embedded-bot{
+
+    margin-top: -150px;
+
+    iframe{
+      height: 600px;
+      width: 400px;
+      display: block;
+      margin: 0 auto;
+      border: 1px solid #f6f6f6
+    }
+  }
+}
+
+.contributor{
+  display: inline-block;
+  margin: 0 5px;
+
+  .profile-image{
+    height: 60px;
+    width: 60px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 45px;
+    background-position: center;
+    border: 2px solid #159957;
+    }
+  }
