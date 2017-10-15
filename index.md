@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="embedded-bot">
-   <iframe src="https://curiosone-bot.github.io/curiosone-web/" sandbox="allow-same-origin allow-scripts allow-pointer-lock"></iframe>
+   <iframe src="{{site.data.links.bot_link}}" sandbox="allow-same-origin allow-scripts allow-pointer-lock"></iframe>
 </div>
 
 # [](#header-2)Contributors
