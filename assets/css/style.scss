@@ -1,0 +1,85 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+
+.page-header{
+
+  .logo{
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.main-content{
+  .embedded-bot{
+
+    margin-top: -150px;
+
+    iframe{
+      height: 600px;
+      width: 400px;
+      display: block;
+      margin: 0 auto;
+      border: 0px;
+      box-shadow: 0px 3px 3px 0px rgba(50, 50, 50, 0.5);
+    }
+  }
+}
+
+.contributor{
+  display: inline-block;
+  margin: 0 5px;
+
+  .profile-image{
+    height: 60px;
+    width: 60px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 45px;
+    background-position: center;
+    border: 2px solid #159957;
+    }
+  }
+
+@media screen and (min-width: 42em){
+  .page-header {
+      padding: 2rem 6rem 8rem 6rem;
+  }
+
+  .button-bot{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 42em){
+
+  #contributors{
+    margin-top: 0px;
+  }
+
+  .btn{
+    margin: 1rem 2rem !important;
+    width: auto;
+  }
+
+  .main-content{
+    text-align: center;
+  }
+
+  .page-header{
+    .logo{
+      width: 90%;
+    }
+  }
+
+  .embedded-bot{
+    display: none;
+  }
+
+  .button-bot{
+    display: block;
+  }
+}

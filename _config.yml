@@ -1,5 +1,3 @@
-exclude:
-- LICENSE
-- README.md
-- .gitattributes
-- _config.yml
+title: Curiosone Bot
+description: Conversational bot written in Java!
+theme: jekyll-theme-cayman
