@@ -1,3 +1,4 @@
 title: Curiosone Bot
 description: Conversational bot written in Java!
 theme: jekyll-theme-cayman
+baseurl: 'https://curiosone-bot.github.io/'
