@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{site.lang | default: "en-US"}}">
   <head>
     <meta charset="UTF-8">
     {% seo %}
-    <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
+    <meta name="description" content="{{page.description | default: site.description | default: site.github.project_tagline}}"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link rel="shortcut icon" href="{{site.baseurl}}/media/favicon.ico" type="image/x-icon">
@@ -14,8 +14,8 @@
   <body>
     <section class="page-header">
       <img src="{{site.baseurl}}/media/curiosone-bot-logo.png" class="logo"/>
-      <a href="{{ site.data.links.repo_link }}" target="_blank" class="btn">View on GitHub</a>
-      <a href="{{ site.data.links.bot_link }}" class="btn button-bot">Talk with the bot</a>
+      <a href="{{site.data.links.repo_link}}" target="_blank" class="btn">View on GitHub</a>
+      <a href="{{site.data.links.bot_link}}" class="btn button-bot">Talk with the bot</a>
     </section>
 
     <section class="main-content">
