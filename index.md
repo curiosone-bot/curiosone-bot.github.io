@@ -9,7 +9,7 @@ layout: default
 
 {% for member in site.data.members %}
   <div class="contributor">
-    <a href="https://github.com/{{ member.github }}" title="{{ member.name }}">
+    <a href="https://github.com/{{ member.github }}" title="{{ member.name }}" target="_blank">
       <div class="profile-image" style="background-image: url(https://github.com/{{ member.github }}.png)"></div>
     </a>
   </div>
